@@ -1,10 +1,12 @@
 # Chowdhury Jayed Nahian
 
-Professional Profile
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+###
+
+<h1 align="center">Hi there! 👋 I'm Jayed Nahian</h1>
+
+###
+
 
 ###
 
@@ -22,16 +24,6 @@ Professional Profile
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jayednahain.jayednahain&"  />
-</div>
-
-###
-
-<h1 align="center">Hi there! 👋 I'm Jayed Nahian</h1>
 
 ###
 
@@ -117,7 +109,6 @@ I'm a **React Native Engineer** with **4+ years of experience** delivering produ
 | Project                        | Description                                                                                   | Technologies                            | Links                                                                                                                                          |
 | ------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🚚 **Truck Lagbe Apps**        | Comprehensive logistics platform with Shipper & Owner apps deployed on Play Store & App Store | React Native, Flutter, Redux, RTK Query | [Shipper App](https://play.google.com/store/apps/details?id=com.shipper), [Owner App](https://play.google.com/store/apps/details?id=com.owner) |
-| � **Deshoali**                 | House shifting service mobile application                                                     | React Native, Android                   | View on Play Store                                                                                                                             |
 | 📱 **Trip Challan System**     | Advanced logistics feature for trip management and documentation                              | Flutter, Firebase                       | Internal Project                                                                                                                               |
 | � **GPS Tracking & Analytics** | Real-time truck tracking with mileage calculation and network monitoring                      | React Native, Google Maps API           | Internal Project                                                                                                                               |
 
